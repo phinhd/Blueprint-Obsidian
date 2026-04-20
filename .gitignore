@@ -1,0 +1,16 @@
+# --- Obsidian Core ---
+.obsidian/workspace.json
+.obsidian/graph.json
+.obsidian/appearance.json
+
+# --- Trash  ---
+.trash/
+
+# --- OS & Cache ---
+.DS_Store
+Thumbs.db
+.obsidian/cache/
+
+# --- Plugin Data ---
+.obsidian/plugins/obsidian-git/data.json
+.smart-connections/
